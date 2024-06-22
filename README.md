@@ -12,9 +12,9 @@
 - [Unit Test in Java]()
 
 ### Module 3
-- [Custom Classes and Inherintance]()
-- [Generic Programming]()
-- [Functional and Modular Programming]()
+- [Custom Classes and Inherintance](01-java/java3a-custom-classes-and-inheritance.md)
+- [Generic Programming](01-java/java3b-generic-programming.md)
+- [Functional and Modular Programming](01-java/java3c-func-and-modular-prog.md)
 
 ### Module 4
 - [I/O, Files and Directories]()
