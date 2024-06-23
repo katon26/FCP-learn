@@ -7,9 +7,9 @@
 - [Strings and Objects]()
 
 ### Module 2
-- [Manage Program Flows]()
-- [Error / Exeption Handling]()
-- [Unit Test in Java]()
+- [Manage Program Flows](01-java/java2a-program-flows.md)
+- [Error / Exception Handling](01-java/java2b-error-except-handling.md)
+- [Unit Test in Java](01-java/java2c-unit-test.md)
 
 ### Module 3
 - [Custom Classes and Inherintance](01-java/java3a-custom-classes-and-inheritance.md)
