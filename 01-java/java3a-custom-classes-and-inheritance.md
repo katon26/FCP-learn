@@ -1,8 +1,15 @@
 ## Custom Classes & Inheritance
+Custom classes and inheritance are fundamental concepts in object-oriented programming like Java. Custom classes allow you to define your own data types, while inheritance enables code reuse across multiple classes. This module covers the basics of creating custom classes, constructors, inheritance, and overriding methods in Java.
 
 - Custom Classes : User-defined data types in Java
 - Inheritance : Mechanism for reusing code across multiple classes
 - Allows for better organization, modularity, and maintainability
+
+
+[Creating Custom Classes](#Creating-Custom-Classes)
+| [Constructors](#constructors)
+| [Inheritance](#inheritance)
+| [Overriding Methods](#overriding-methods)
 
 code snippet:
 ```java
