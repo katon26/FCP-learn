@@ -2,9 +2,9 @@
 
 ## Java - (SE) SWE01
 ### Module 1
-- [Getting Started with Java]()
-- [Types and Variables in Java]()
-- [Strings and Objects]()
+- [Getting Started with Java](01-java/java1a-getting-started.md)
+- [Types and Variables in Java](01-java/java1b-types-variables.md)
+- [Strings and Objects](01-java/java1c-strings-objects.md)
 
 ### Module 2
 - [Manage Program Flows](01-java/java2a-program-flows.md)
@@ -17,7 +17,7 @@
 - [Functional and Modular Programming](01-java/java3c-func-and-modular-prog.md)
 
 ### Module 4
-- [I/O, Files and Directories]()
+- [I/O, Files and Directories](01-java/java4a-io-files-directories.md)
 - [Multi-Threading in Java]()
 - [Concurrency and Transactions]()
 
