@@ -21,7 +21,7 @@
 - [Multi-Threading in Java]()
 - [Concurrency and Transactions]()
 
-<!-- ## Python (DE) SWE02 -->
+## Python (DE) SWE02
 
 ## Data Structure And Algorithms In Python And Java (with Assignment) - (SE/DE) SWE03
 
