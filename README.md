@@ -18,8 +18,8 @@
 
 ### Module 4
 - [I/O, Files and Directories](01-java/java4a-io-files-directories.md)
-- [Multi-Threading in Java]()
-- [Concurrency and Transactions]()
+- [Multi-Threading in Java](01-java/java4b-multi-threading.md)
+- [Concurrency and Transactions](01-java/java4c-concurrency-transactions.md)
 
 ## Python (DE) SWE02
 ### Module 1
