@@ -22,6 +22,25 @@
 - [Concurrency and Transactions]()
 
 ## Python (DE) SWE02
+### Module 1
+- [Getting Started with Python](02-python/python1a-getting-started.md)
+- [Data Types and Variables](02-python/python1b-data-types-variables.md)
+- [Conditinals, Operators and Loops](02-python/python1c-cond-operators-loops.md)
+
+### Module 2
+- [Functions](02-python/python2a-functions.md)
+- [Structured Data](02-python/python2b-structured-data.md)
+- [Built-in Function](02-python/python2c-built-in-functions.md)
+
+### Module 3
+- [Classes](02-python/python3a-classes.md)
+- [String Objects](02-python/python3b-string-objects.md)
+- [Exception Handling](02-python/python3c-exception-handling.md)
+
+### Module 4
+- [Modules](02-python/python4a-modules.md)
+- [Object Oriented Programming](02-python/python4b-oop.md)
+- [File I/O and Database Access](02-python/python4c-file-io-db-access.md)
 
 ## Data Structure And Algorithms In Python And Java (with Assignment) - (SE/DE) SWE03
 
