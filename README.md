@@ -71,7 +71,7 @@
 
 ## CI/CD Toolset And Framework - (SE) SWE12
 
-<!-- ## DWH Toolset And Frameworks - (DE) SWE13 -->
+## DWH Toolset And Frameworks - (DE) SWE13
 
 <!-- ## ETL Toolset And Data Catalogue - (DE) SWE14 -->
 
