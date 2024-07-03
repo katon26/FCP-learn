@@ -58,7 +58,7 @@
 
 ## Code Level Quality & Security - (SE) SWE08
 
-<!-- ## Data Governance, Security & Integration - (DE) SWE09 -->
+## Data Governance, Security & Integration - (DE) SWE09
 
 
 ---
