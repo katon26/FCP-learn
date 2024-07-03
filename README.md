@@ -73,7 +73,7 @@
 
 ## DWH Toolset And Frameworks - (DE) SWE13
 
-<!-- ## ETL Toolset And Data Catalogue - (DE) SWE14 -->
+## ETL Toolset And Data Catalogue - (DE) SWE14
 
 
  
